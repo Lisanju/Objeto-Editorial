@@ -1,5 +1,5 @@
 # Trabalho Final - Fórmula Discursiva e Objeto Editorial
-Proposta de objeto editorial para veiculação de fórmula discursiva para a disciplina "Texto: Produção e Circulação" (2023/2), ofertada pelo DL-UFSCar e ministrada pela Profa. Dra. Luciana Salazar Salgado. Projeto feito por Elisa Lardapide e Felipe Michelin.
+Proposta de objeto editorial para veiculação de fórmula discursiva para a disciplina "Texto: Produção e Circulação" (2023/2), ofertada pelo DL-UFSCar e ministrada pela Profa. Dra. Luciana Salazar Salgado. Projeto feito por Elisa Lardapide e Felipe Michelin no Bacharelado em Linguística.
 
 ## Qual é o termo candidato a fórmula discursiva?
 
