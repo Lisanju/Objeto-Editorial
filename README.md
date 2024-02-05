@@ -1,7 +1,7 @@
 # Trabalho Final - Fórmula Discursiva e Objeto Editorial
 Ao longo do semestre, estudamos sobre a produção e circulação de texto. Nos termos de Alice Krieg-Planque, discutimos as fórmulas discursivas, além de considerarmos a noção de comunicação social e a relação entre informação e comunicação na produção e circulação de textos. Para este trabalho final, então, a proposta é produzir um vídeo de 15' a 20', de cenografia discursiva livre, discutindo uma fórmula discursiva e propondo um objeto editorial para a circulação da fórmula escolhida.
 
-Este trabalho foi feito por Elisa (802593) e Felipe (802623) para a disciplina "Texto: Produção e Circulação (2023/2)", ministrada pela Profa. Dra. Luciana Salgado no Bacharelado em Linguística pela UFSCar.
+Este trabalho foi feito por Elisa e Felipe para a disciplina "Texto: Produção e Circulação (2023/2)", ministrada pela Profa. Dra. Luciana Salgado no Bacharelado em Linguística pela UFSCar.
 
 ## Qual é o termo candidato a fórmula discursiva?
 
