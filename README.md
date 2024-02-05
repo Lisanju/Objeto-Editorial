@@ -7,7 +7,11 @@ Este trabalho foi feito por Elisa e Felipe para a disciplina "Texto: Produção 
 
 Escolhemos o termo hacker como fórmula discursiva a ser discutida no presente trabalho. A motivação dessa escolha foi a recém inauguração do projeto público "Hackers do Bem". A necessidade do complemento parece revelar que, comumente, um hacker não possui boas práticas. Nossa hipótese é a de que o termo hacker, apesar de parecer uma fórmula cristalizada, apresenta uma disputa de sentidos que envolvem a ética sobre a prática do hacking.
 
-A seguir, desenvolvemos nossa hipótese interpretativa através da coleta de dados e da análise crítica sobre os sentidos mobilizados por textos que contém o termo hacker.
+Por um lado, o termo hacker possui uma conotação negativa, mobilizando sentidos sobre criminalidade, invasão e violação à ética. Um hacker é visto como criminoso, um ladrão de dados que pode arruinar com a vida pública de uma pessoa, empresa ou organização.
+
+Por outro lado, o termo hacker é usado como forma de resistência, mobilizando sentidos sobre programação criativa, segurança digital e até mesmo ativismo social. Para esses sentidos, um hacker é um programador experiente que é capaz de encontrar soluções criativas para aumentar o nível de segurança de um programa e de barrar a violação da ética e direitos humanos no desenvolvimento das tecnologias atuais.
+
+Assim, desenvolvemos nossa hipótese interpretativa através da coleta de dados e da análise crítica sobre os sentidos mobilizados por textos que contém o termo hacker.
 
 ## A partir de que texto ou acontecimento começa a coleta e como?
 
